@@ -86,7 +86,7 @@ Deploy backend to a public server (e.g., Render, Railway)
 ✨ Author
 Made with ❤️ by Samiul Haque Siddique
 
-![Screenshot](Graph.png)
+![Screenshot](image_2025-05-15_062227863.png)
 
 
 📜 License
