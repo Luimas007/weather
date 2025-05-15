@@ -4,7 +4,7 @@ Built using a custom FastAPI backend and a simple, responsive frontend.
 
 ## 📸 Demo
 
-🔗 **Live Demo:** [View Here](https://luimas007.github.io/graph-visualizer/)
+🔗 **Live Demo:** [View Here](https://luimas007.github.io/front-weather/)
 
 
 🚀 Features
