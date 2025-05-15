@@ -84,6 +84,9 @@ Deploy backend to a public server (e.g., Render, Railway)
 ✨ Author
 Made with ❤️ by Samiul Haque Siddique
 
+![Screenshot](Graph.png)
+
+
 📜 License
 This project is licensed under the MIT License.
 Feel free to use, modify, and distribute! 🎯
