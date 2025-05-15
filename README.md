@@ -2,8 +2,10 @@
 A fullstack weather application that fetches real-time weather data and predicts the next day's forecast.
 Built using a custom FastAPI backend and a simple, responsive frontend.
 
-📸 Demo
-🔗 Live Demo: View Here
+## 📸 Demo
+
+🔗 **Live Demo:** [View Here](https://luimas007.github.io/graph-visualizer/)
+
 
 🚀 Features
 🌤️ Real-time weather updates based on user input
